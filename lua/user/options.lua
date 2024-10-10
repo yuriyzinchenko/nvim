@@ -7,3 +7,4 @@ vim.opt.termguicolors = true
 vim.opt.clipboard = "unnamedplus"
 vim.opt.backup = true -- automatically save a backup file
 vim.opt.backupdir:remove('.') -- keep backups out of the current directory
+vim.opt.mousemoveevent = true -- Allow hovering in bufferline
