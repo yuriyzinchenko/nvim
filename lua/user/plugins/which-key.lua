@@ -1,5 +1,5 @@
 -- Show pending keybinds
-print("which-key")
+
 return {
   "folke/which-key.nvim",
   event = "VeryLazy",
